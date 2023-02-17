@@ -25,6 +25,7 @@ import com.merittrac.apollo.core.services.BasicService;
  * Provides APIs to get business and layout rules.
  * 
  * @author jai_s - MeritTrac Services Pvt. Ltd.
+ * @author Moulya Pradeep
  * @since Apollo v2.0
  * @see
  */
