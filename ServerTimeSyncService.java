@@ -33,6 +33,7 @@ import com.merittrac.apollo.core.exception.GenericDataModelException;
  * This Service provides methods to sync up the client time to Server time
  * 
  * @author Madhukesh_G - MeritTrac Services Pvt. Ltd.
+ * @author Moulya Pradeep
  * @since Apollo v2.0
  * @see
  */
